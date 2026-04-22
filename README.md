@@ -1,10 +1,20 @@
-# 18 Sales Skills That Close Deals While You Sleep
+# 18 AI Sales Skills for Claude Code — Close More B2B Deals on Autopilot
 
-One founder used Skill #11 (Deal Closer Playbook) to unstick a $240K deal that had been "almost there" for 6 weeks. Closed in 4 days.
+**18 structured sales playbooks that Claude runs as automations.** Prospecting. Pipeline. Closing. Negotiation. Enterprise deals. Partnerships. Built for B2B founders and sales teams who want AI leverage without the prompt-engineering overhead.
 
-Another ran Skill #16 (Closing Objection Crusher) before a procurement call.. walked in with pre-scripted responses to every objection they threw. Signed same day.
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Claude Code](https://img.shields.io/badge/works_with-Claude_Code-orange)](https://claude.com/claude-code)
+[![Strategy Sprints](https://img.shields.io/badge/built_by-Strategy_Sprints-red)](https://strategysprints.com)
 
-These aren't prompt templates. They're structured playbooks Claude runs as automations -- prospecting, pipeline, closing, negotiation, enterprise deals, and partnerships.
+---
+
+## Field-proven results
+
+**One founder used Skill #11 (Deal Closer Playbook)** to unstick a $240K deal that had been "almost there" for 6 weeks. Closed in 4 days.
+
+**Another ran Skill #16 (Closing Objection Crusher)** before a procurement call — walked in with pre-scripted responses to every objection. Signed same day.
+
+**These aren't prompt templates.** They're structured playbooks Claude runs as automations. Each skill has inputs, a step-by-step process, a defined output, and field-tested pro tips.
 
 ---
 
@@ -60,29 +70,114 @@ These aren't prompt templates. They're structured playbooks Claude runs as autom
 
 ---
 
-## How to use
+## Who this is for
 
-Each skill follows the same structure: what it does, when to use it, inputs required, step-by-step process, output format, and field-tested pro tips.
+- **B2B founders** selling $10K-$500K deals who want AI leverage without hiring a sales ops person
+- **Sales teams of 2-10 reps** who need structure their managers are too busy to write
+- **Consultants and advisors** who close their own deals and want to template the repeatable parts
+- **Agency owners** running sales for clients who want productized playbooks
+- **Revenue operations leaders** installing AI into the pipeline without blowing up the existing stack
 
-```
-1. Open Claude Cowork (or Claude Code)
-2. Reference the skill by name or paste the SKILL.md content
-3. Provide the required inputs
-4. Review and deploy the output
-```
-
----
-
-## About
-
-Built by Simon Severino -- author of Strategy Sprints and Time Freedom with Jay Abraham. Added over $2 Billion in sales to B2B clients in finance, software, and consulting.
-
-[strategysprints.com](https://strategysprints.com) | [LinkedIn](https://www.linkedin.com/in/simonseverino/) | [X](https://x.com/simonseverino) | [YouTube](https://www.youtube.com/@strategysprints)
+If you close deals between $5K and $500K and you touch the pipeline directly, these skills compress multi-hour tasks into minutes.
 
 ---
 
-### More Claude Skills
+## Install
 
-- [**Revenue**](https://github.com/SimonTheSalesBooster/revenue) -- Find where money is hiding in your business
-- [**Leverage**](https://github.com/SimonTheSalesBooster/leverage) -- The 3-7 moves that change your trajectory 10x-100x
-- [**Weekly**](https://github.com/SimonTheSalesBooster/weekly) -- Surface what's worth writing about from your week
+### Claude Code
+
+```bash
+git clone https://github.com/SimonTheSalesBooster/ClaudeSkills-SprintClub ~/code/sprint-club-skills
+```
+
+Reference individual skills by pasting the SKILL.md content into your Claude session, or symlink specific skills into `~/.claude/commands/`:
+
+```bash
+ln -s ~/code/sprint-club-skills/11-deal-closer-playbook/SKILL.md ~/.claude/commands/deal-closer.md
+```
+
+### Claude Cowork / Claude.ai
+
+Open a skill folder, copy the SKILL.md contents, paste into Claude, provide your inputs.
+
+### Cursor, Windsurf, and other agent runtimes
+
+The skills are plain markdown and agent-agnostic. Drop them into whatever prompt-library the runtime supports.
+
+---
+
+## How each skill works
+
+Every skill follows the same structure:
+
+1. **What it does** — one-line value prop
+2. **When to use it** — specific triggers
+3. **Inputs required** — what to paste in
+4. **Step-by-step process** — Claude's structured playbook
+5. **Output format** — what you get
+6. **Field-tested pro tips** — learned the hard way from real deals
+
+Consistency across all 18 skills means you learn the format once and reuse it everywhere.
+
+---
+
+## FAQ
+
+**Are these skills free?**
+Yes. MIT-licensed. Use them personally, in your team, or inside your client work.
+
+**Do they work without Claude Code?**
+Yes. The SKILL.md files are agent-neutral markdown. Paste the content into any capable LLM (Claude, GPT, Gemini) and they run. Claude Code gives the cleanest workflow because the skills become slash commands.
+
+**Are they customizable?**
+Yes. Fork, edit, add industry-specific sections. If you build something useful, open a PR.
+
+**Can I use these on client deals?**
+Yes. They were built for exactly that.
+
+**Where do the 18 skills come from?**
+Built by Simon Severino across 70+ countries of B2B client work — the specific playbooks that unstuck specific deals. Nothing theoretical.
+
+---
+
+## Related search terms
+
+AI sales skills · Claude sales skills · Claude Code sales · B2B sales automation · sales playbook AI · LinkedIn prospecting agent · Apollo.io automation · pipeline management AI · deal closer AI · objection handling AI · sales negotiation framework · enterprise B2B sales · sales operations AI · revenue operations · SDR AI · AE AI · account executive tools · MEDDIC AI · SPIN selling · Challenger sale · sales methodology · B2B SaaS sales · founder-led sales · consultative selling · procurement negotiation · ZOPA mapping · buying committee mapping · multi-threading deals · enterprise pipeline · partnership development · licensing deals · Claude skills library · Strategy Sprints methodology
+
+---
+
+## About the author
+
+Built by [Simon Severino](https://linkedin.com/in/simonseverino) — author of [*Strategy Sprints*](https://www.amazon.com/Strategy-Sprints-Accelerate-Growth-Transform/dp/1789668131) (Kogan Page, translated into 9 languages) and [*Time Freedom*](https://www.amazon.com/Time-Freedom-Control-Calendar-Life/dp/1264269234) (with Jay Abraham). Added over $2 billion in sales to B2B clients in finance, software, and consulting across 70 countries.
+
+## More from Strategy Sprints
+
+- [**The Sales Show**](https://www.youtube.com/@strategysprints) — weekly YouTube + podcast on B2B sales acceleration and AI-native GTM.
+- [**Sprint Club**](https://strategysprints.com/sprintclub) — paid community for B2B founders. $49/month. Weekly office hours. Full library of 47 AI skills. 7-day free trial.
+- [**Jetpack Series 2026**](https://strategysprints.com/jetpack) — 9-month curriculum on installing AI agents into your revenue engine. Three tiers: Monthly cohort workshop ($200/mo), 200K Club group coaching ($900/mo), Private 1:1 ($9K/mo).
+- [**Strategy Sprints Certification**](https://strategysprints.com/certification) — for consultants and coaches who want to license and teach the methodology.
+- [**Book a discovery call**](https://calendly.com/strategysprint/discovery-call) — 90-day sales sprint for founders doing $1M-$50M revenue.
+
+## More open-source skills
+
+- [**natural-planning-for-teams**](https://github.com/SimonTheSalesBooster/natural-planning-for-teams) — David Allen + Ed Lamont's 11-minute team planning model as a skill
+- [**board-of-advisors**](https://github.com/SimonTheSalesBooster/board-of-advisors) — 15 AI advisors meeting every morning on your business
+- [**advisor-playbook**](https://github.com/SimonTheSalesBooster/advisor-playbook) — 5 decision frameworks from Howard Marks + Marc Andreessen
+- [**sevencritics**](https://github.com/SimonTheSalesBooster/sevencritics) — marketing copy stress-test through 7 hostile reader personas
+- [**prospectingwork**](https://github.com/SimonTheSalesBooster/prospectingwork) — Rick Rubin's positioning diagnostic approach to cold outreach
+- [**revenue**](https://github.com/SimonTheSalesBooster/revenue) · [**leverage**](https://github.com/SimonTheSalesBooster/leverage) · [**weekly**](https://github.com/SimonTheSalesBooster/weekly)
+
+---
+
+## License
+
+MIT. See [LICENSE](LICENSE). Fork, adapt, remix. Attribution appreciated but not required.
+
+---
+
+## Contact
+
+- Web: [strategysprints.com](https://strategysprints.com)
+- LinkedIn: [simonseverino](https://linkedin.com/in/simonseverino)
+- X: [@simonseverino](https://x.com/simonseverino)
+- YouTube: [@strategysprints](https://www.youtube.com/@strategysprints)
