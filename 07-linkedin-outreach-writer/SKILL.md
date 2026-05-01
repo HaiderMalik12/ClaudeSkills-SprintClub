@@ -17,6 +17,34 @@ Before running this skill, ask the user for:
 4. **Goal of this outreach** — connection, conversation, or meeting?
 5. **Tone preference** — casual and direct, warm and conversational, or executive-level?
 
+## Default Approach: Jay Abraham Preeminence
+
+**All outreach defaults to the Preeminence framework.** Do not wait to be asked.
+
+Jay Abraham's Preeminence principle means positioning yourself as the most trusted advisor — someone who genuinely cares about the prospect's success, not just making a sale. Applied to LinkedIn:
+
+1. **Lead with their work** — reference something specific they've created, written, built, or said
+2. **Peer-to-peer tone** — no hierarchy, no vendor language, no "I wanted to reach out"
+3. **No pitch, no ask** — pure connection first, serve before asking for anything
+4. **Mirror their language** — use words and concepts from their own brand/content
+5. **Short and direct** — respect their time, get to the point
+
+**The test:** Would this message feel valuable even if they never bought anything? If yes — send it. If no — rewrite it.
+
+**What to avoid:**
+- ❌ "I help companies like yours..." (vendor framing)
+- ❌ "I'd love to learn more about your work..." (hollow)
+- ❌ "Would you be open to a quick call?" (too fast)
+- ❌ Generic compliments with no specifics ("Great content!")
+
+**What works:**
+- ✅ Reference a specific book, post, framework, or result they produced
+- ✅ Show how their thinking shaped yours or your client work
+- ✅ Position as a peer — "your approach and mine overlap"
+- ✅ End with connection intent, not a CTA
+
+---
+
 ## Step-by-Step Instructions
 
 ### Step 1 — Select the Outreach Type
@@ -33,32 +61,33 @@ Determine which message type is needed:
 ### Step 2 — Write the Connection Request
 Rules:
 - Max 300 characters
-- Reference ONE specific detail (not generic)
+- Reference ONE specific detail from their actual work (book, post, framework, methodology)
 - No pitch, no "I'd like to add you to my network"
-- End with a reason to connect that benefits them
+- Lead with what THEY created — not what Simon does
+- Peer-to-peer tone throughout
 
-**Formula:** `[Specific observation] + [Why connecting makes sense] + [No ask]`
+**Preeminence Formula:** `[Their specific work/idea + how it impacted you or your clients] + [Peer connection intent] + [No ask]`
 
 **Templates by trigger type:**
 
+*Trigger: They wrote a book or framework*
+```
+[Name] — [specific book/framework] reshaped how I [specific application with clients]. Your [methodology name] and my [adjacent approach] are closely aligned. Would love to connect.
+```
+
 *Trigger: They posted something*
 ```
-Hi [Name], your post on [topic] caught my attention — especially [specific point]. I work in [adjacent space] and think about this a lot too. Would love to connect with someone thinking this way.
+[Name] — your point on [specific topic from post] is exactly the shift [their audience] needs. I work with [similar space] and see this play out constantly. Would love to connect with someone thinking this way.
 ```
 
-*Trigger: Company news*
+*Trigger: Company they built*
 ```
-Hi [Name], congrats on [news — funding/launch/hire]. I work with [similar companies] at this stage. Would love to be in your network as you scale.
-```
-
-*Trigger: Job change (new role)*
-```
-Hi [Name], congrats on the new role at [Company]! First 90 days as [Title] are always full. Thought it would be worth connecting — I work with folks navigating similar transitions.
+[Name] — what you've built with [Company] is exactly what [their market] needed. I work with [adjacent space] and your approach and mine overlap in interesting ways. Would love to connect.
 ```
 
 *Trigger: Mutual connection*
 ```
-Hi [Name], [Mutual Name] suggested I reach out — we both work in [space]. Would love to connect and compare notes.
+[Name] — [Mutual Name] suggested I reach out. We both work in [space] and your thinking on [specific topic] resonates with what I see in my client work. Would love to connect.
 ```
 
 ### Step 3 — Write the First Message (Post-Connection)
